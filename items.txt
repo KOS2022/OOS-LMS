@@ -1,0 +1,9 @@
+Book, In Search of Lost Time,Marcel Proust, Grasset and Gallimard
+Book, Ulysses, James Joyce, Shakespeare and Company
+Book, Don Quixote, Miguel de Cervantes, Francisco de Robles
+Journal, Journal Article 1, ABCD, Science3
+Journal, Journal Article 2, DEFJ, Science2
+Journal, Journal Article 3, HIJK, Science1
+Digital, Digital Media 8, OIUY, WWWsfsfs
+Digital, Digital Media 9, HJGFD, WWWggggh
+Digital, Digital Media 10, HKHJJKH, WWWerrt
